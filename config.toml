@@ -1,4 +1,4 @@
-baseurl = "http://racheal-spec.github.io/racheltomi/"
+baseurl = "https://racheal-spec.github.io/racheltomi/"
 title = "Newsroom"
 theme = "newsroom"
 author = "Weru"
