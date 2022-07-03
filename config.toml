@@ -1,5 +1,5 @@
 baseurl = "https://blog.racheltomi.work/"
-title = "Newsroom"
+title = "Racheltomi"
 theme = "newsroom"
 author = "Weru"
 copyright = "Copyright © 2019, Weru and the Hugo Authors; all rights reserved."
@@ -29,7 +29,7 @@ paginate = 6
   # locale = "en_US"
   # ga_analytics = "" # google analytics ID e.g UA-116386578-1
   # ga_verify = "" # google verification code e.g 5jb-rxeBfITeJQKOuUss3ud6FPGTxXkCho-ZN5qlrZg
-  # twitter = "" # twitter handle e.g @weru
+  # twitter = "@racheltomidev"
   # mainSections = ["blog", "docs"] see https://gohugo.io/functions/where/#mainsections
   # uncomment the line below will disable darkmode by default.
   # disableDarkMode = true  # note that the UI control for toggling darkmode will remain in place. This way, the user can decide which mode they would like to use while browsing your website
