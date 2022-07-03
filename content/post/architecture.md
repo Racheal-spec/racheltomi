@@ -109,7 +109,8 @@ In order to write good documentation, you must ensure that it includes a section
 
 You should also provide examples or a test environment where developers can test your API and make real calls. For example, take a look at this Spotify API documentation.
 
-![image 2](../../images/archi/spotify console.jpg)
+![image 2](../../images/archi/spotify.jpg)
+
 [Spotify Web API documentation](https://developer.spotify.com/documentation/web-api/quick-start/)
 
 Spotify provides example code for developers. And it also makes a console available to enable developers to explore different endpoints. With this, developers can get familiar with the API endpoints. They can make requests, get responses, and learn the requirements needed to implement them.
